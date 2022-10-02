@@ -2,7 +2,7 @@
 
 using static System.Console;
 Clear();
-int[] array = getArray(15);
+int[] array = getArray(8);
 printArray(array);
 
 
